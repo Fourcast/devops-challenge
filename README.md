@@ -23,6 +23,7 @@ Please show how you would auto-scale the number of nodes and containers as the n
 - Document how you will use continuous integration to build the different artifacts for the different  environment (dev, acc, prod)
 - Document how you will use continuous delivery to ship to the different environments (dev, acc, prod)
 - A google cloud project with all the resources deployed
+- Alerting and monitoring
 
 Notes
 - Please do not fork or submit a PR to this repo
