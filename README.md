@@ -1,9 +1,9 @@
-# devops-challenge
+# Devops Technical Challenge
 Repository containing the technical challenge for potential devops candidate
 
 ### Goal
 
-###Your goal is to illustrate how you would deploy and scale two applications (App A and App B) to incoming requests.
+Your goal is to illustrate how you would deploy and scale two applications (App A and App B) to incoming requests.
 
 ### Assignment
 
